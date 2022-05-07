@@ -1,0 +1,22 @@
+{
+  "name": "dh-heroes",
+  "version": "1.0.0",
+  "description": "Micro desafio (DH heroes)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstorLevy/DH-heroes.git"
+  },
+  "author": "Astor Levy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstorLevy/DH-heroes/issues"
+  },
+  "homepage": "https://github.com/AstorLevy/DH-heroes#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
